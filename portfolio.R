@@ -16,6 +16,14 @@ ggplot(data = data_lionfish, aes(x = site)) +
   coord_flip() +
   labs(x = "Site", y = "Number of fish")
 
+# Bar plot with sites ordered by frequency
+ggplot(data = data_lionfish, aes(x = fct_infreq(site))) +
+  geom_bar() +
+  coord_flip() +
+  labs(x = "Site", y = "Number of fish")
+
 
 # Save plot
-ggsave(plot = p, filename = "results/img/first_plot.png")
+ggsave(plot = p, filename = "results/img/bar_plot_lionfish.png")
+
+
