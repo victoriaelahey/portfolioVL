@@ -14,7 +14,7 @@ glimpse(data_lionfish)
 ggplot(data = data_lionfish, aes(x = site)) +
   geom_bar() +
   coord_flip() +
-  labs(x = "Site", y = "Number of fish")
+  labs(x = "Site", y = "Number of fish") 
 
 # Bar plot with sites ordered by frequency
 ggplot(data = data_lionfish, aes(x = fct_infreq(site))) +
