@@ -1,0 +1,442 @@
+Date,Timepoint,Time of Bite,Fork Length (cm),Age Phase,species,Fish ID,Position on Tray,Number of Bites,Merged,sheet,scientific_name,duration_min,Unique_fish_id
+2025-10-23,14:25:00,0:30,10,Juvenile phase,slippery dick wrasse,A,G6,1,NA,day 0 hour 1,Halichoeres bivittatus,60,day 0 hour 1_A
+2025-10-23,14:26:00,0:58,10,Juvenile phase,striped parrotfish,A,E4,3,NA,day 0 hour 1,Scarus iseri,60,day 0 hour 1_A
+2025-10-23,14:26:00,1:22,14,initial phase,stoplight parrotfish,A,A6,1,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_A
+2025-10-23,14:26:00,1:32,14,initial phase,stoplight parrotfish,A,A8,2,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_A
+2025-10-23,14:26:00,1:39,12,Juvenile phase,stoplight parrotfish,A,G4,1,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_A
+2025-10-23,14:27:00,1:42,12,Juvenile phase,stoplight parrotfish,A,C6,1,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_A
+2025-10-23,14:27:00,1:51,10,Juvenile phase,slippery dick wrasse,B,F5,1,NA,day 0 hour 1,Halichoeres bivittatus,60,day 0 hour 1_B
+2025-10-23,14:27:00,2:02,18,initial phase,stoplight parrotfish,C,B7,1,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_C
+2025-10-23,14:27:00,2:06,18,initial phase,stoplight parrotfish,C,B3,2,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_C
+2025-10-23,14:27:00,2:11,18,initial phase,stoplight parrotfish,C,A4,2,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_C
+2025-10-23,14:27:00,2:19,12,initial phase,stoplight parrotfish,C,A8,1,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_C
+2025-10-23,14:27:00,2:20,18,initial phase,stoplight parrotfish,C,A4,1,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_C
+2025-10-23,14:27:00,2:22,18,initial phase,stoplight parrotfish,C,B3,3,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_C
+2025-10-23,14:27:00,2:26,18,initial phase,stoplight parrotfish,C,C2,7,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_C
+2025-10-23,14:27:00,2:45,18,initial phase,stoplight parrotfish,C,A2,2,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_C
+2025-10-23,14:27:00,2:49,18,initial phase,stoplight parrotfish,C,A6,1,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_C
+2025-10-23,14:28:00,2:52,18,initial phase,stoplight parrotfish,C,A8,14,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_C
+2025-10-23,14:28:00,3:09,12,Juvenile phase,stoplight parrotfish,B,G4,8,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_B
+2025-10-23,14:28:00,3:28,18,initial phase,stoplight parrotfish,C,G4,2,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_C
+2025-10-23,14:28:00,3:43,18,initial phase,stoplight parrotfish,C,F1,2,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_C
+2025-10-23,14:28:00,3:49,18,initial phase,stoplight parrotfish,C,F3,3,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_C
+2025-10-23,14:28:00,3:53,12,Juvenile phase,stoplight parrotfish,C,G4,10,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_C
+2025-10-23,14:29:00,3:56,10,Juvenile phase,slippery dick wrasse,C,F5,4,NA,day 0 hour 1,Halichoeres bivittatus,60,day 0 hour 1_C
+2025-10-23,14:29:00,4:01,18,initial phase,stoplight parrotfish,C,G4,6,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_C
+2025-10-23,14:29:00,4:09,10,Juvenile phase,slippery dick wrasse,D,F5,2,NA,day 0 hour 1,Halichoeres bivittatus,60,day 0 hour 1_D
+2025-10-23,14:29:00,4:15,18,initial phase,stoplight parrotfish,C,G4,2,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_C
+2025-10-23,14:29:00,4:15,12,Juvenile phase,stoplight parrotfish,C,B1,1,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_C
+2025-10-23,14:29:00,4:24,10,Juvenile phase,slippery dick wrasse,D,F5,4,NA,day 0 hour 1,Halichoeres bivittatus,60,day 0 hour 1_D
+2025-10-23,14:29:00,4:35,18,initial phase,stoplight parrotfish,C,F3,1,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_C
+2025-10-23,14:29:00,4:37,10,Juvenile phase,slippery dick wrasse,D,F5,2,NA,day 0 hour 1,Halichoeres bivittatus,60,day 0 hour 1_D
+2025-10-23,14:29:00,4:38,18,initial phase,stoplight parrotfish,C,G4,2,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_C
+2025-10-23,14:29:00,4:41,18,initial phase,stoplight parrotfish,C,F5,1,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_C
+2025-10-23,14:29:00,4:41,30,terminal phase,stoplight parrotfish,A,F5,2,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_A
+2025-10-23,14:30:00,4:55,18,initial phase,stoplight parrotfish,C,A8,1,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_C
+2025-10-23,14:30:00,5:09,10,Juvenile phase,slippery dick wrasse,E,F5,2,NA,day 0 hour 1,Halichoeres bivittatus,60,day 0 hour 1_E
+2025-10-23,14:30:00,5:09,18,initial phase,stoplight parrotfish,C,A4,1,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_C
+2025-10-23,14:30:00,5:12,12,Juvenile phase,stoplight parrotfish,E,G4,3,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_E
+2025-10-23,14:30:00,5:22,18,initial phase,stoplight parrotfish,C,A8,2,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_C
+2025-10-23,14:30:00,5:28,12,Juvenile phase,stoplight parrotfish,E,C2,3,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_E
+2025-10-23,14:30:00,5:30,18,initial phase,stoplight parrotfish,C,G4,4,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_C
+2025-10-23,14:30:00,5:40,18,initial phase,stoplight parrotfish,C,F5,1,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_C
+2025-10-23,14:30:00,5:46,18,initial phase,stoplight parrotfish,C,F7,2,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_C
+2025-10-23,14:31:00,5:55,10,Juvenile phase,slippery dick wrasse,F,B7,1,NA,day 0 hour 1,Halichoeres bivittatus,60,day 0 hour 1_F
+2025-10-23,14:31:00,5:59,18,initial phase,stoplight parrotfish,C,C2,2,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_C
+2025-10-23,14:31:00,6:02,10,Juvenile phase,slippery dick wrasse,F,F5,2,NA,day 0 hour 1,Halichoeres bivittatus,60,day 0 hour 1_F
+2025-10-23,14:31:00,6:06,18,initial phase,stoplight parrotfish,C,E6,4,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_C
+2025-10-23,14:31:00,6:21,18,initial phase,stoplight parrotfish,C,G4,3,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_C
+2025-10-23,14:31:00,6:34,18,initial phase,stoplight parrotfish,C,C4,2,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_C
+2025-10-23,14:31:00,6:38,18,initial phase,stoplight parrotfish,C,B5,1,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_C
+2025-10-23,14:31:00,6:44,18,initial phase,stoplight parrotfish,C,A8,11,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_C
+2025-10-23,14:31:00,6:47,10,Juvenile phase,slippery dick wrasse,G,F5,2,NA,day 0 hour 1,Halichoeres bivittatus,60,day 0 hour 1_G
+2025-10-23,14:31:00,6:47,12,Juvenile phase,stoplight parrotfish,F,G4,2,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_F
+2025-10-23,14:31:00,6:48,10,Juvenile phase,slippery dick wrasse,H,F5,7,NA,day 0 hour 1,Halichoeres bivittatus,60,day 0 hour 1_H
+2025-10-23,14:31:00,6:49,10,Juvenile phase,slippery dick wrasse,H,G6,1,NA,day 0 hour 1,Halichoeres bivittatus,60,day 0 hour 1_H
+2025-10-23,14:32:00,6:54,12,Juvenile phase,stoplight parrotfish,G,G4,3,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_G
+2025-10-23,14:32:00,7:09,18,initial phase,stoplight parrotfish,C,B5,1,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_C
+2025-10-23,14:32:00,7:21,18,initial phase,stoplight parrotfish,C,A8,3,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_C
+2025-10-23,14:32:00,7:42,18,initial phase,stoplight parrotfish,C,D6,1,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_C
+2025-10-23,14:32:00,7:44,18,initial phase,stoplight parrotfish,C,B5,3,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_C
+2025-10-23,14:32:00,7:52,18,initial phase,stoplight parrotfish,C,E6,2,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_C
+2025-10-23,14:32:00,7:55,18,initial phase,stoplight parrotfish,C,G4,8,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_C
+2025-10-23,14:33:00,8:22,18,initial phase,stoplight parrotfish,C,E4,1,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_C
+2025-10-23,14:33:00,8:26,15,terminal phase,slippery dick wrasse,A,F5,1,NA,day 0 hour 1,Halichoeres bivittatus,60,day 0 hour 1_A
+2025-10-23,14:33:00,8:28,18,initial phase,stoplight parrotfish,C,G4,4,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_C
+2025-10-23,14:33:00,8:29,30,terminal phase,stoplight parrotfish,B,E4,2,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_B
+2025-10-23,14:33:00,8:40,12,Juvenile phase,stoplight parrotfish,H,C2,1,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_H
+2025-10-23,14:33:00,8:40,18,initial phase,stoplight parrotfish,C,A6,2,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_C
+2025-10-23,14:33:00,8:43,18,initial phase,stoplight parrotfish,C,A4,1,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_C
+2025-10-23,14:33:00,8:46,12,Juvenile phase,stoplight parrotfish,H,G4,3,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_H
+2025-10-23,14:34:00,9:06,18,initial phase,stoplight parrotfish,C,G4,5,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_C
+2025-10-23,14:34:00,9:11,10,Juvenile phase,slippery dick wrasse,I,F5,4,NA,day 0 hour 1,Halichoeres bivittatus,60,day 0 hour 1_I
+2025-10-23,14:34:00,9:16,15,terminal phase,slippery dick wrasse,B,F5,1,NA,day 0 hour 1,Halichoeres bivittatus,60,day 0 hour 1_B
+2025-10-23,14:34:00,9:32,10,terminal phase,tomtate,A,F5,1,NA,day 0 hour 1,Haemulon aurolineatum,60,day 0 hour 1_A
+2025-10-23,14:34:00,9:35,18,initial phase,stoplight parrotfish,D,F3,2,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_D
+2025-10-23,14:34:00,9:38,18,initial phase,stoplight parrotfish,D,B5,7,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_D
+2025-10-23,14:35:00,9:51,10,terminal phase,tomtate,B,E6,1,NA,day 0 hour 1,Haemulon aurolineatum,60,day 0 hour 1_B
+2025-10-23,14:35:00,9:54,18,initial phase,stoplight parrotfish,D,C2,6,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_D
+2025-10-23,14:35:00,9:58,12,Juvenile phase,stoplight parrotfish,I,F5,8,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_I
+2025-10-23,14:35:00,10:18,18,initial phase,stoplight parrotfish,D,G4,1,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_D
+2025-10-23,14:35:00,10:22,18,initial phase,stoplight parrotfish,D,E2,2,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_D
+2025-10-23,14:35:00,10:26,18,initial phase,stoplight parrotfish,D,C2,1,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_D
+2025-10-23,14:35:00,10:27,10,terminal phase,tomtate,C,C6,1,NA,day 0 hour 1,Haemulon aurolineatum,60,day 0 hour 1_C
+2025-10-23,14:35:00,10:43,12,Juvenile phase,stoplight parrotfish,J,B7,3,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_J
+2025-10-23,14:35:00,10:48,18,initial phase,stoplight parrotfish,D,A8,4,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_D
+2025-10-23,14:36:00,10:59,12,Juvenile phase,stoplight parrotfish,K,G4,9,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_K
+2025-10-23,14:36:00,10:59,18,initial phase,stoplight parrotfish,D,B3,3,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_D
+2025-10-23,14:36:00,11:07,18,initial phase,stoplight parrotfish,D,A4,6,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_D
+2025-10-23,14:36:00,11:16,18,initial phase,stoplight parrotfish,D,A2,2,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_D
+2025-10-23,14:36:00,11:24,18,initial phase,stoplight parrotfish,D,E4,2,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_D
+2025-10-23,14:36:00,11:24,15,terminal phase,slippery dick wrasse,C,F5,1,NA,day 0 hour 1,Halichoeres bivittatus,60,day 0 hour 1_C
+2025-10-23,14:36:00,11:34,18,initial phase,stoplight parrotfish,D,G4,1,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_D
+2025-10-23,14:36:00,11:45,18,initial phase,stoplight parrotfish,D,C4,3,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_D
+2025-10-23,14:36:00,11:50,18,initial phase,stoplight parrotfish,D,B3,2,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_D
+2025-10-23,14:37:00,11:59,18,initial phase,stoplight parrotfish,D,A8,2,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_D
+2025-10-23,14:37:00,12:04,10,Juvenile phase,slippery dick wrasse,J,F5,1,NA,day 0 hour 1,Halichoeres bivittatus,60,day 0 hour 1_J
+2025-10-23,14:37:00,12:14,18,initial phase,stoplight parrotfish,D,C2,3,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_D
+2025-10-23,14:37:00,12:25,18,initial phase,stoplight parrotfish,D,B5,7,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_D
+2025-10-23,14:37:00,12:35,18,initial phase,stoplight parrotfish,D,A6,4,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_D
+2025-10-23,14:38:00,13:26,18,initial phase,stoplight parrotfish,D,B5,3,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_D
+2025-10-23,14:38:00,13:37,10,Juvenile phase,slippery dick wrasse,K,F5,2,NA,day 0 hour 1,Halichoeres bivittatus,60,day 0 hour 1_K
+2025-10-23,14:38:00,13:39,18,initial phase,stoplight parrotfish,E,F3,2,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_E
+2025-10-23,14:38:00,13:45,18,initial phase,stoplight parrotfish,E,G4,3,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_E
+2025-10-23,14:38:00,13:53,18,initial phase,stoplight parrotfish,E,B5,3,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_E
+2025-10-23,14:39:00,13:58,18,initial phase,stoplight parrotfish,E,B3,2,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_E
+2025-10-23,14:39:00,14:04,10,Juvenile phase,slippery dick wrasse,L,F5,1,NA,day 0 hour 1,Halichoeres bivittatus,60,day 0 hour 1_L
+2025-10-23,14:39:00,14:09,15,terminal phase,slippery dick wrasse,D,E2,2,NA,day 0 hour 1,Halichoeres bivittatus,60,day 0 hour 1_D
+2025-10-23,14:39:00,14:10,18,initial phase,stoplight parrotfish,E,A8,6,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_E
+2025-10-23,14:39:00,14:31,18,initial phase,stoplight parrotfish,E,C2,1,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_E
+2025-10-23,14:39:00,14:39,18,initial phase,stoplight parrotfish,E,B7,2,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_E
+2025-10-23,14:40:00,14:55,18,initial phase,stoplight parrotfish,E,C2,1,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_E
+2025-10-23,14:40:00,14:56,12,Juvenile phase,stoplight parrotfish,L,G4,1,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_L
+2025-10-23,14:40:00,14:56,10,Juvenile phase,slippery dick wrasse,M,G6,1,NA,day 0 hour 1,Halichoeres bivittatus,60,day 0 hour 1_M
+2025-10-23,14:40:00,15:02,12,Juvenile phase,stoplight parrotfish,L,G4,10,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_L
+2025-10-23,14:40:00,15:06,18,initial phase,stoplight parrotfish,E,B5,1,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_E
+2025-10-23,14:40:00,15:12,18,initial phase,stoplight parrotfish,E,A4,3,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_E
+2025-10-23,14:40:00,15:22,18,initial phase,stoplight parrotfish,E,B3,7,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_E
+2025-10-23,14:40:00,15:45,18,initial phase,stoplight parrotfish,E,A4,1,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_E
+2025-10-23,14:41:00,15:57,18,initial phase,stoplight parrotfish,E,F3,1,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_E
+2025-10-23,14:41:00,16:08,18,initial phase,stoplight parrotfish,E,A4,5,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_E
+2025-10-23,14:41:00,16:20,18,initial phase,stoplight parrotfish,E,B3,7,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_E
+2025-10-23,14:41:00,16:26,10,Juvenile phase,slippery dick wrasse,N,E6,2,NA,day 0 hour 1,Halichoeres bivittatus,60,day 0 hour 1_N
+2025-10-23,14:41:00,16:45,18,initial phase,stoplight parrotfish,E,A8,4,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_E
+2025-10-23,14:42:00,16:50,18,initial phase,stoplight parrotfish,E,A4,3,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_E
+2025-10-23,14:42:00,17:05,10,terminal phase,tomtate,D,F7,1,NA,day 0 hour 1,Haemulon aurolineatum,60,day 0 hour 1_D
+2025-10-23,14:42:00,17:20,18,initial phase,stoplight parrotfish,E,G4,1,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_E
+2025-10-23,14:42:00,17:24,18,initial phase,stoplight parrotfish,E,E6,2,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_E
+2025-10-23,14:42:00,17:29,18,initial phase,stoplight parrotfish,E,A8,6,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_E
+2025-10-23,14:42:00,17:46,15,terminal phase,slippery dick wrasse,E,E2,1,NA,day 0 hour 1,Halichoeres bivittatus,60,day 0 hour 1_E
+2025-10-23,14:42:00,17:48,18,initial phase,stoplight parrotfish,E,B5,1,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_E
+2025-10-23,14:43:00,17:51,18,initial phase,stoplight parrotfish,E,A4,2,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_E
+2025-10-23,14:43:00,17:58,18,initial phase,stoplight parrotfish,E,C6,1,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_E
+2025-10-23,14:43:00,18:01,18,initial phase,stoplight parrotfish,E,B7,2,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_E
+2025-10-23,14:43:00,18:07,18,initial phase,stoplight parrotfish,E,A8,2,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_E
+2025-10-23,14:43:00,18:19,18,initial phase,stoplight parrotfish,E,A2,1,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_E
+2025-10-23,14:43:00,18:26,18,initial phase,stoplight parrotfish,E,G2,1,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_E
+2025-10-23,14:43:00,18:29,18,initial phase,stoplight parrotfish,E,E2,1,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_E
+2025-10-23,14:43:00,18:38,18,initial phase,stoplight parrotfish,E,C2,1,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_E
+2025-10-23,14:43:00,18:41,18,initial phase,stoplight parrotfish,E,B3,2,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_E
+2025-10-23,14:43:00,18:47,18,initial phase,stoplight parrotfish,E,B5,2,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_E
+2025-10-23,14:44:00,18:54,18,initial phase,stoplight parrotfish,E,B3,1,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_E
+2025-10-23,14:44:00,19:22,18,initial phase,stoplight parrotfish,F,E6,1,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_F
+2025-10-23,14:44:00,19:26,18,initial phase,stoplight parrotfish,F,B3,1,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_F
+2025-10-23,14:44:00,19:29,18,initial phase,stoplight parrotfish,F,A2,2,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_F
+2025-10-23,14:44:00,19:41,18,initial phase,stoplight parrotfish,F,C2,4,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_F
+2025-10-23,14:45:00,20:21,10,Juvenile phase,slippery dick wrasse,O,F5,1,NA,day 0 hour 1,Halichoeres bivittatus,60,day 0 hour 1_O
+2025-10-23,14:45:00,20:28,19,initial phase,stoplight parrotfish,G,B5,1,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_G
+2025-10-23,14:45:00,20:31,19,initial phase,stoplight parrotfish,G,A4,3,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_G
+2025-10-23,14:45:00,20:37,19,initial phase,stoplight parrotfish,G,B5,1,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_G
+2025-10-23,14:45:00,20:38,19,initial phase,stoplight parrotfish,G,A6,1,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_G
+2025-10-23,14:46:00,20:55,19,initial phase,stoplight parrotfish,G,F1,1,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_G
+2025-10-23,14:46:00,21:04,19,initial phase,stoplight parrotfish,G,C2,1,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_G
+2025-10-23,14:46:00,21:05,19,initial phase,stoplight parrotfish,G,E2,1,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_G
+2025-10-23,14:46:00,21:12,19,initial phase,stoplight parrotfish,G,A4,6,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_G
+2025-10-23,14:46:00,21:19,19,initial phase,stoplight parrotfish,G,B3,3,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_G
+2025-10-23,14:46:00,21:32,19,initial phase,stoplight parrotfish,G,A4,7,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_G
+2025-10-23,14:46:00,21:41,25,terminal phase,striped parrotfish,A,A6,1,NA,day 0 hour 1,Scarus iseri,60,day 0 hour 1_A
+2025-10-23,14:47:00,21:57,19,initial phase,stoplight parrotfish,H,A4,3,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_H
+2025-10-23,14:47:00,22:06,19,initial phase,stoplight parrotfish,H,C4,1,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_H
+2025-10-23,14:47:00,22:07,12,Juvenile phase,stoplight parrotfish,M,G4,1,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_M
+2025-10-23,14:47:00,22:08,19,initial phase,stoplight parrotfish,H,A8,15,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_H
+2025-10-23,14:47:00,22:18,12,Juvenile phase,stoplight parrotfish,M,G2,1,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_M
+2025-10-23,14:47:00,21:21,12,Juvenile phase,stoplight parrotfish,M,C2,2,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_M
+2025-10-23,14:47:00,22:40,19,initial phase,stoplight parrotfish,H,B7,1,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_H
+2025-10-23,14:48:00,23:06,19,initial phase,stoplight parrotfish,H,B4,1,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_H
+2025-10-23,14:48:00,23:27,19,initial phase,stoplight parrotfish,H,F3,2,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_H
+2025-10-23,14:48:00,23:33,19,initial phase,stoplight parrotfish,H,E2,4,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_H
+2025-10-23,14:48:00,23:36,19,initial phase,stoplight parrotfish,H,F1,1,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_H
+2025-10-23,14:48:00,23:44,19,initial phase,stoplight parrotfish,H,C2,3,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_H
+2025-10-23,14:49:00,23:52,19,initial phase,stoplight parrotfish,H,A4,1,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_H
+2025-10-23,14:49:00,0:01,19,initial phase,stoplight parrotfish,H,A8,5,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_H
+2025-10-23,14:49:00,0:19,19,initial phase,stoplight parrotfish,H,A8,1,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_H
+2025-10-23,14:49:00,0:21,19,initial phase,stoplight parrotfish,H,C4,4,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_H
+2025-10-23,14:49:00,0:30,19,initial phase,stoplight parrotfish,H,B3,1,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_H
+2025-10-23,14:49:00,0:41,19,initial phase,stoplight parrotfish,H,B3,6,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_H
+2025-10-23,14:50:00,0:52,19,initial phase,stoplight parrotfish,H,F1,12,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_H
+2025-10-23,14:51:00,2:02,19,initial phase,stoplight parrotfish,H,A2,1,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_H
+2025-10-23,14:51:00,2:08,19,initial phase,stoplight parrotfish,H,A8,3,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_H
+2025-10-23,14:51:00,2:44,10,Juvenile phase,slippery dick wrasse,P,F1,1,NA,day 0 hour 1,Halichoeres bivittatus,60,day 0 hour 1_P
+2025-10-23,14:51:00,2:46,10,Juvenile phase,slippery dick wrasse,P,E2,1,NA,day 0 hour 1,Halichoeres bivittatus,60,day 0 hour 1_P
+2025-10-23,14:51:00,2:48,10,Juvenile phase,slippery dick wrasse,P,F5,1,NA,day 0 hour 1,Halichoeres bivittatus,60,day 0 hour 1_P
+2025-10-23,14:52:00,2:51,17,initial phase,stoplight parrotfish,I,A4,5,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_I
+2025-10-23,14:52:00,3:16,17,initial phase,stoplight parrotfish,I,A8,4,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_I
+2025-10-23,14:52:00,3:35,17,initial phase,stoplight parrotfish,I,G4,7,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_I
+2025-10-23,14:52:00,3:47,17,initial phase,stoplight parrotfish,I,F5,5,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_I
+2025-10-23,14:53:00,4:22,20,initial phase,stoplight parrotfish,J,A8,6,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_J
+2025-10-23,14:53:00,4:40,20,initial phase,stoplight parrotfish,J,C6,1,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_J
+2025-10-23,14:53:00,4:44,20,initial phase,stoplight parrotfish,J,A6,1,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_J
+2025-10-23,14:54:00,4:47,20,initial phase,stoplight parrotfish,J,A4,2,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_J
+2025-10-23,14:54:00,4:56,20,initial phase,stoplight parrotfish,J,B3,4,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_J
+2025-10-23,14:54:00,5:04,20,initial phase,stoplight parrotfish,J,C4,1,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_J
+2025-10-23,14:54:00,5:06,20,initial phase,stoplight parrotfish,J,E2,1,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_J
+2025-10-23,14:54:00,5:09,20,initial phase,stoplight parrotfish,J,F3,1,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_J
+2025-10-23,14:54:00,5:12,20,initial phase,stoplight parrotfish,J,C2,5,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_J
+2025-10-23,14:54:00,5:26,20,initial phase,stoplight parrotfish,J,B5,1,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_J
+2025-10-23,14:54:00,5:31,20,initial phase,stoplight parrotfish,J,B3,3,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_J
+2025-10-23,14:54:00,5:44,20,initial phase,stoplight parrotfish,J,F1,1,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_J
+2025-10-23,14:56:00,7:29,20,initial phase,stoplight parrotfish,K,A8,1,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_K
+2025-10-23,14:56:00,7:33,20,initial phase,stoplight parrotfish,K,B5,3,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_K
+2025-10-23,14:56:00,7:38,20,initial phase,stoplight parrotfish,K,B3,1,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_K
+2025-10-23,14:57:00,7:50,20,initial phase,stoplight parrotfish,K,F1,1,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_K
+2025-10-23,14:57:00,7:54,20,initial phase,stoplight parrotfish,K,G4,1,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_K
+2025-10-23,14:57:00,8:13,19,initial phase,stoplight parrotfish,L,A4,2,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_L
+2025-10-23,14:57:00,8:16,19,initial phase,stoplight parrotfish,L,B3,2,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_L
+2025-10-23,14:57:00,8:22,19,initial phase,stoplight parrotfish,L,F1,13,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_L
+2025-10-23,14:58:00,8:53,12,Juvenile phase,slippery dick wrasse,Q,C2,6,NA,day 0 hour 1,Halichoeres bivittatus,60,day 0 hour 1_Q
+2025-10-23,14:58:00,9:21,19,initial phase,stoplight parrotfish,L,F1,2,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_L
+2025-10-23,14:59:00,9:57,19,initial phase,stoplight parrotfish,L,F5,4,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_L
+2025-10-23,14:59:00,10:06,19,initial phase,stoplight parrotfish,L,F7,1,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_L
+2025-10-23,15:00:00,10:50,12,Juvenile phase,slippery dick wrasse,R,C2,3,NA,day 0 hour 1,Halichoeres bivittatus,60,day 0 hour 1_R
+2025-10-23,15:02:00,12:57,19,initial phase,stoplight parrotfish,M,A4,3,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_M
+2025-10-23,15:02:00,13:06,19,initial phase,stoplight parrotfish,M,B5,1,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_M
+2025-10-23,15:02:00,13:09,19,initial phase,stoplight parrotfish,M,A8,1,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_M
+2025-10-23,15:02:00,13:25,12,Juvenile phase,stoplight parrotfish,N,G4,2,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_N
+2025-10-23,15:02:00,13:35,19,initial phase,stoplight parrotfish,N,F5,5,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_N
+2025-10-23,15:03:00,13:55,19,initial phase,stoplight parrotfish,N,F1,1,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_N
+2025-10-23,15:03:00,13:59,19,initial phase,stoplight parrotfish,N,G4,1,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_N
+2025-10-23,15:03:00,14:09,19,initial phase,stoplight parrotfish,N,F5,1,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_N
+2025-10-23,15:03:00,14:11,12,Juvenile phase,stoplight parrotfish,O,A4,15,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_O
+2025-10-23,15:03:00,14:11,19,initial phase,stoplight parrotfish,N,G6,16,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_N
+2025-10-23,15:03:00,14:34,12,Juvenile phase,stoplight parrotfish,O,A6,1,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_O
+2025-10-23,15:03:00,14:40,12,Juvenile phase,stoplight parrotfish,O,A8,1,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_O
+2025-10-23,15:03:00,14:41,12,Juvenile phase,stoplight parrotfish,O,B7,1,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_O
+2025-10-23,15:03:00,14:47,19,initial phase,stoplight parrotfish,N,G4,2,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_N
+2025-10-23,15:04:00,14:50,12,Juvenile phase,slippery dick wrasse,S,F3,1,NA,day 0 hour 1,Halichoeres bivittatus,60,day 0 hour 1_S
+2025-10-23,15:04:00,14:53,19,initial phase,stoplight parrotfish,N,C2,3,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_N
+2025-10-23,15:04:00,15:21,12,Juvenile phase,stoplight parrotfish,O,A4,4,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_O
+2025-10-23,15:04:00,15:23,19,initial phase,stoplight parrotfish,N,G6,2,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_N
+2025-10-23,15:04:00,15:32,19,initial phase,stoplight parrotfish,N,B3,5,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_N
+2025-10-23,15:04:00,15:39,19,initial phase,stoplight parrotfish,N,E6,3,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_N
+2025-10-23,15:05:00,15:57,19,initial phase,stoplight parrotfish,N,G2,3,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_N
+2025-10-23,15:06:00,17:36,8,Juvenile phase,princess parrotfish,A,E4,3,NA,day 0 hour 1,Scarus taeniopterus,60,day 0 hour 1_A
+2025-10-23,15:07:00,18:22,19,initial phase,stoplight parrotfish,O,G4,1,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_O
+2025-10-23,15:07:00,18:30,19,initial phase,stoplight parrotfish,O,A8,1,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_O
+2025-10-23,15:07:00,18:36,19,initial phase,stoplight parrotfish,O,B5,2,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_O
+2025-10-23,15:07:00,18:40,19,initial phase,stoplight parrotfish,O,C4,2,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_O
+2025-10-23,15:07:00,18:43,19,initial phase,stoplight parrotfish,O,E2,1,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_O
+2025-10-23,15:07:00,18:47,19,initial phase,stoplight parrotfish,O,F1,4,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_O
+2025-10-23,15:08:00,18:57,19,initial phase,stoplight parrotfish,O,G2,1,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_O
+2025-10-23,15:08:00,19:00,19,initial phase,stoplight parrotfish,O,C2,3,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_O
+2025-10-23,15:08:00,19:14,19,initial phase,stoplight parrotfish,O,B1,1,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_O
+2025-10-23,15:08:00,19:21,19,initial phase,stoplight parrotfish,O,B5,1,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_O
+2025-10-23,15:08:00,19:28,19,initial phase,stoplight parrotfish,O,A8,1,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_O
+2025-10-23,15:08:00,19:31,19,initial phase,stoplight parrotfish,O,C6,1,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_O
+2025-10-23,15:08:00,19:33,19,initial phase,stoplight parrotfish,O,B5,4,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_O
+2025-10-23,15:08:00,19:40,19,initial phase,stoplight parrotfish,O,E2,1,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_O
+2025-10-23,15:08:00,19:47,19,initial phase,stoplight parrotfish,O,G4,5,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_O
+2025-10-23,15:09:00,19:50,8,Juvenile phase,princess parrotfish,B,A8,2,NA,day 0 hour 1,Scarus taeniopterus,60,day 0 hour 1_B
+2025-10-23,15:09:00,19:56,19,initial phase,stoplight parrotfish,O,E6,13,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_O
+2025-10-23,15:09:00,20:19,19,initial phase,stoplight parrotfish,O,G6,6,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_O
+2025-10-23,15:09:00,20:44,19,initial phase,stoplight parrotfish,O,G6,4,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_O
+2025-10-23,15:10:00,20:51,19,initial phase,stoplight parrotfish,O,F5,1,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_O
+2025-10-23,15:10:00,20:58,19,initial phase,stoplight parrotfish,O,F7,6,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_O
+2025-10-23,15:10:00,21:15,12,Juvenile phase,stoplight parrotfish,P,F5,1,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_P
+2025-10-23,15:10:00,21:20,19,initial phase,stoplight parrotfish,O,G6,2,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_O
+2025-10-23,15:10:00,21:30,19,initial phase,stoplight parrotfish,O,F7,4,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_O
+2025-10-23,15:10:00,21:42,19,initial phase,stoplight parrotfish,O,E6,1,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_O
+2025-10-23,15:10:00,21:55,19,initial phase,stoplight parrotfish,O,B7,1,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_O
+2025-10-23,15:11:00,22:01,19,initial phase,stoplight parrotfish,O,F1,1,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_O
+2025-10-23,15:11:00,22:09,12,Juvenile phase,slippery dick wrasse,T,C2,1,NA,day 0 hour 1,Halichoeres bivittatus,60,day 0 hour 1_T
+2025-10-23,15:11:00,22:24,19,initial phase,stoplight parrotfish,O,A4,1,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_O
+2025-10-23,15:11:00,22:25,19,initial phase,stoplight parrotfish,O,B3,3,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_O
+2025-10-23,15:12:00,23:48,19,initial phase,stoplight parrotfish,P,F5,1,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_P
+2025-10-23,15:13:00,0:20,21,initial phase,stoplight parrotfish,Q,F5,1,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_Q
+2025-10-23,15:13:00,0:22,21,initial phase,stoplight parrotfish,Q,F6,1,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_Q
+2025-10-23,15:13:00,0:25,21,initial phase,stoplight parrotfish,Q,F3,1,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_Q
+2025-10-23,15:14:00,1:09,18,initial phase,stoplight parrotfish,R,F1,1,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_R
+2025-10-23,15:14:00,1:19,18,initial phase,stoplight parrotfish,S,C2,1,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_S
+2025-10-23,15:14:00,1:24,12,Juvenile phase,slippery dick wrasse,U,B3,2,NA,day 0 hour 1,Halichoeres bivittatus,60,day 0 hour 1_U
+2025-10-23,15:18:00,5:10,19,initial phase,stoplight parrotfish,T,F1,5,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_T
+2025-10-23,15:19:00,5:50,12,Juvenile phase,slippery dick wrasse,V,B1,1,NA,day 0 hour 1,Halichoeres bivittatus,60,day 0 hour 1_V
+2025-10-23,15:19:00,6:37,12,Juvenile phase,stoplight parrotfish,Q,B3,1,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_Q
+2025-10-23,15:19:00,6:38,12,Juvenile phase,stoplight parrotfish,Q,A4,6,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_Q
+2025-10-23,15:21:00,7:57,20,initial phase,stoplight parrotfish,U,A4,1,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_U
+2025-10-23,15:21:00,8:10,20,initial phase,stoplight parrotfish,U,G4,1,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_U
+2025-10-23,15:21:00,8:14,20,initial phase,stoplight parrotfish,U,G6,1,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_U
+2025-10-23,15:21:00,8:16,20,initial phase,stoplight parrotfish,U,B7,1,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_U
+2025-10-23,15:23:00,10:23,12,Juvenile phase,slippery dick wrasse,W,F5,1,NA,day 0 hour 1,Halichoeres bivittatus,60,day 0 hour 1_W
+2025-10-23,15:23:00,10:42,12,Juvenile phase,stoplight parrotfish,R,E6,2,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_R
+2025-10-23,15:23:00,10:46,12,Juvenile phase,stoplight parrotfish,R,B3,1,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_R
+2025-10-23,15:24:00,11:17,12,Juvenile phase,stoplight parrotfish,R,A4,1,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_R
+2025-10-23,15:24:00,11:19,12,Juvenile phase,stoplight parrotfish,R,B3,1,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_R
+2025-10-23,15:24:00,11:25,12,Juvenile phase,stoplight parrotfish,R,A4,9,NA,day 0 hour 1,Sparisoma viride,60,day 0 hour 1_R
+2025-10-23,15:24:00,11:52,10,Juvenile phase,striped parrotfish,B,E4,1,NA,day 0 hour 1,Scarus iseri,60,day 0 hour 1_B
+2025-10-23,15:26:00,0:56,10,Juvenile phase,slippery dick wrasse,A,E2,1,NA,day 0 hour 2,Halichoeres bivittatus,60,day 0 hour 2_A
+2025-10-23,15:26:00,1:02,10,Juvenile phase,slippery dick wrasse,A,F5,1,NA,day 0 hour 2,Halichoeres bivittatus,60,day 0 hour 2_A
+2025-10-23,15:27:00,2:28,11,terminal phase,tomtate,A,F1,1,NA,day 0 hour 2,Haemulon aurolineatum,60,day 0 hour 2_A
+2025-10-23,15:30:00,5:15,10,Juvenile phase,slippery dick wrasse,B,C2,1,NA,day 0 hour 2,Halichoeres bivittatus,60,day 0 hour 2_B
+2025-10-23,15:30:00,5:28,18,initial phase,stoplight parrotfish,A,B3,1,NA,day 0 hour 2,Sparisoma viride,60,day 0 hour 2_A
+2025-10-23,15:30:00,5:33,18,initial phase,stoplight parrotfish,A,F3,2,NA,day 0 hour 2,Sparisoma viride,60,day 0 hour 2_A
+2025-10-23,15:30:00,5:43,18,initial phase,stoplight parrotfish,A,F1,1,NA,day 0 hour 2,Sparisoma viride,60,day 0 hour 2_A
+2025-10-23,15:34:00,9:21,11,Juvenile phase,stoplight parrotfish,A,C2,1,NA,day 0 hour 2,Sparisoma viride,60,day 0 hour 2_A
+2025-10-23,15:34:00,9:24,11,Juvenile phase,stoplight parrotfish,A,G2,1,NA,day 0 hour 2,Sparisoma viride,60,day 0 hour 2_A
+2025-10-23,15:35:00,10:47,13,Juvenile phase,slippery dick wrasse,C,A4,1,NA,day 0 hour 2,Halichoeres bivittatus,60,day 0 hour 2_C
+2025-10-23,15:36:00,10:56,13,Juvenile phase,slippery dick wrasse,C,G4,1,NA,day 0 hour 2,Halichoeres bivittatus,60,day 0 hour 2_C
+2025-10-23,15:36:00,11:03,12,terminal phase,tomtate,B,E6,1,NA,day 0 hour 2,Haemulon aurolineatum,60,day 0 hour 2_B
+2025-10-23,15:38:00,12:50,38,intermediate phase,gray angelfish,A,B1,1,NA,day 0 hour 2,Pomacanthus arcuatus,60,day 0 hour 2_A
+2025-10-23,15:38:00,13:19,15,initial phase,stoplight parrotfish,B,F7,5,NA,day 0 hour 2,Sparisoma viride,60,day 0 hour 2_B
+2025-10-23,15:39:00,14:08,15,initial phase,stoplight parrotfish,B,F7,2,NA,day 0 hour 2,Sparisoma viride,60,day 0 hour 2_B
+2025-10-23,15:39:00,14:18,15,initial phase,stoplight parrotfish,B,G4,8,NA,day 0 hour 2,Sparisoma viride,60,day 0 hour 2_B
+2025-10-23,15:39:00,14:45,15,initial phase,stoplight parrotfish,B,G2,1,NA,day 0 hour 2,Sparisoma viride,60,day 0 hour 2_B
+2025-10-23,15:41:00,16:08,11,Juvenile phase,striped parrotfish,A,A8,1,NA,day 0 hour 2,Scarus iseri,60,day 0 hour 2_A
+2025-10-23,15:43:00,18:17,17,initial phase,stoplight parrotfish,C,G4,2,NA,day 0 hour 2,Sparisoma viride,60,day 0 hour 2_C
+2025-10-23,15:43:00,18:24,10,Juvenile phase,slippery dick wrasse,D,A4,1,NA,day 0 hour 2,Halichoeres bivittatus,60,day 0 hour 2_D
+2025-10-23,15:43:00,18:37,17,initial phase,stoplight parrotfish,D,E6,2,NA,day 0 hour 2,Sparisoma viride,60,day 0 hour 2_D
+2025-10-23,15:45:00,19:59,17,initial phase,stoplight parrotfish,E,F7,2,NA,day 0 hour 2,Sparisoma viride,60,day 0 hour 2_E
+2025-10-23,15:45:00,20:07,17,initial phase,stoplight parrotfish,E,E6,1,NA,day 0 hour 2,Sparisoma viride,60,day 0 hour 2_E
+2025-10-23,15:46:00,20:11,17,initial phase,stoplight parrotfish,E,G4,3,NA,day 0 hour 2,Sparisoma viride,60,day 0 hour 2_E
+2025-10-23,15:46:00,21:27,10,Juvenile phase,slippery dick wrasse,E,C2,2,NA,day 0 hour 2,Halichoeres bivittatus,60,day 0 hour 2_E
+2025-10-23,15:52:00,3:12,7,Juvenile phase,slippery dick wrasse,F,E2,1,NA,day 0 hour 2,Halichoeres bivittatus,60,day 0 hour 2_F
+2025-10-23,15:52:00,3:28,10,Juvenile phase,slippery dick wrasse,G,C2,1,NA,day 0 hour 2,Halichoeres bivittatus,60,day 0 hour 2_G
+2025-10-23,15:52:00,3:43,10,Juvenile phase,slippery dick wrasse,G,C2,1,NA,day 0 hour 2,Halichoeres bivittatus,60,day 0 hour 2_G
+2025-10-23,15:54:00,4:58,12,initial phase,french grunt,A,E4,1,NA,day 0 hour 2,Haemulon flavolineatum,60,day 0 hour 2_A
+2025-10-23,15:54:00,5:27,11,Juvenile phase,stoplight parrotfish,B,A4,4,NA,day 0 hour 2,Sparisoma viride,60,day 0 hour 2_B
+2025-10-23,15:54:00,5:36,11,Juvenile phase,stoplight parrotfish,B,B5,1,NA,day 0 hour 2,Sparisoma viride,60,day 0 hour 2_B
+2025-10-23,15:54:00,5:37,11,Juvenile phase,stoplight parrotfish,B,B3,1,NA,day 0 hour 2,Sparisoma viride,60,day 0 hour 2_B
+2025-10-23,15:55:00,6:02,11,Juvenile phase,stoplight parrotfish,B,A4,1,NA,day 0 hour 2,Sparisoma viride,60,day 0 hour 2_B
+2025-10-23,15:55:00,6:07,12,Juvenile phase,slippery dick wrasse,H,A8,1,NA,day 0 hour 2,Halichoeres bivittatus,60,day 0 hour 2_H
+2025-10-23,15:56:00,6:50,10,Juvenile phase,stoplight parrotfish,C,A4,4,NA,day 0 hour 2,Sparisoma viride,60,day 0 hour 2_C
+2025-10-23,15:57:00,8:12,16,initial phase,stoplight parrotfish,F,G4,1,NA,day 0 hour 2,Sparisoma viride,60,day 0 hour 2_F
+2025-10-23,15:57:00,8:20,16,initial phase,stoplight parrotfish,F,F7,1,NA,day 0 hour 2,Sparisoma viride,60,day 0 hour 2_F
+2025-10-23,15:57:00,8:24,16,initial phase,stoplight parrotfish,F,G6,1,NA,day 0 hour 2,Sparisoma viride,60,day 0 hour 2_F
+2025-10-23,15:57:00,8:27,16,initial phase,stoplight parrotfish,F,F5,1,NA,day 0 hour 2,Sparisoma viride,60,day 0 hour 2_F
+2025-10-23,15:58:00,8:59,16,initial phase,stoplight parrotfish,G,G4,1,NA,day 0 hour 2,Sparisoma viride,60,day 0 hour 2_G
+2025-10-23,15:58:00,9:02,16,initial phase,stoplight parrotfish,G,E2,4,NA,day 0 hour 2,Sparisoma viride,60,day 0 hour 2_G
+2025-10-23,15:58:00,9:29,16,initial phase,stoplight parrotfish,G,E4,1,NA,day 0 hour 2,Sparisoma viride,60,day 0 hour 2_G
+2025-10-23,15:58:00,9:42,10,Juvenile phase,slippery dick wrasse,I,F5,1,NA,day 0 hour 2,Halichoeres bivittatus,60,day 0 hour 2_I
+2025-10-23,15:59:00,10:07,12,Juvenile phase,slippery dick wrasse,J,C2,2,NA,day 0 hour 2,Halichoeres bivittatus,60,day 0 hour 2_J
+2025-10-23,16:01:00,12:47,12,Juvenile phase,slippery dick wrasse,K,F5,1,NA,day 0 hour 2,Halichoeres bivittatus,60,day 0 hour 2_K
+2025-10-23,16:05:00,16:22,10,Juvenile phase,slippery dick wrasse,L,C6,1,NA,day 0 hour 2,Halichoeres bivittatus,60,day 0 hour 2_L
+2025-10-23,16:06:00,17:24,10,Juvenile phase,slippery dick wrasse,M,G6,2,NA,day 0 hour 2,Halichoeres bivittatus,60,day 0 hour 2_M
+2025-10-23,16:07:00,18:47,10,Juvenile phase,slippery dick wrasse,N,C2,1,NA,day 0 hour 2,Halichoeres bivittatus,60,day 0 hour 2_N
+2025-10-23,16:09:00,19:51,12,Juvenile phase,slippery dick wrasse,O,C2,2,NA,day 0 hour 2,Halichoeres bivittatus,60,day 0 hour 2_O
+2025-10-23,16:09:00,20:08,16,initial phase,stoplight parrotfish,H,A6,4,NA,day 0 hour 2,Sparisoma viride,60,day 0 hour 2_H
+2025-10-23,16:10:00,21:21,11,Juvenile phase,slippery dick wrasse,P,F5,1,NA,day 0 hour 2,Halichoeres bivittatus,60,day 0 hour 2_P
+2025-10-23,16:12:00,23:47,12,Juvenile phase,slippery dick wrasse,Q,F7,1,NA,day 0 hour 2,Halichoeres bivittatus,60,day 0 hour 2_Q
+2025-10-23,16:13:00,0:10,12,Juvenile phase,slippery dick wrasse,R,A6,1,NA,day 0 hour 2,Halichoeres bivittatus,60,day 0 hour 2_R
+2025-10-23,16:13:00,0:45,12,Juvenile phase,slippery dick wrasse,S,C2,1,NA,day 0 hour 2,Halichoeres bivittatus,60,day 0 hour 2_S
+2025-10-23,16:14:00,0:59,20,initial phase,stoplight parrotfish,I,E2,7,NA,day 0 hour 2,Sparisoma viride,60,day 0 hour 2_I
+2025-10-23,16:16:00,3:38,11,Juvenile phase,slippery dick wrasse,T,E2,3,NA,day 0 hour 2,Halichoeres bivittatus,60,day 0 hour 2_T
+2025-10-23,16:16:00,3:52,12,Juvenile phase,slippery dick wrasse,U,E2,1,NA,day 0 hour 2,Halichoeres bivittatus,60,day 0 hour 2_U
+2025-10-23,16:17:00,3:57,14,initial phase,stoplight parrotfish,J,E4,1,NA,day 0 hour 2,Sparisoma viride,60,day 0 hour 2_J
+2025-10-23,16:17:00,4:06,14,initial phase,stoplight parrotfish,J,F3,2,NA,day 0 hour 2,Sparisoma viride,60,day 0 hour 2_J
+2025-10-23,16:17:00,4:08,12,Juvenile phase,slippery dick wrasse,U,E2,2,NA,day 0 hour 2,Halichoeres bivittatus,60,day 0 hour 2_U
+2025-10-23,16:17:00,4:12,12,Juvenile phase,slippery dick wrasse,U,F5,1,NA,day 0 hour 2,Halichoeres bivittatus,60,day 0 hour 2_U
+2025-10-23,16:17:00,4:15,12,Juvenile phase,slippery dick wrasse,U,E2,3,NA,day 0 hour 2,Halichoeres bivittatus,60,day 0 hour 2_U
+2025-10-23,16:17:00,4:26,19,initial phase,stoplight parrotfish,J,B7,1,NA,day 0 hour 2,Sparisoma viride,60,day 0 hour 2_J
+2025-10-23,16:17:00,4:34,19,initial phase,stoplight parrotfish,J,G4,3,NA,day 0 hour 2,Sparisoma viride,60,day 0 hour 2_J
+2025-10-23,16:17:00,4:41,19,initial phase,stoplight parrotfish,J,F3,1,NA,day 0 hour 2,Sparisoma viride,60,day 0 hour 2_J
+2025-10-23,16:17:00,4:42,17,initial phase,princess parrotfish,A,C4,1,NA,day 0 hour 2,Scarus taeniopterus,60,day 0 hour 2_A
+2025-10-23,16:17:00,4:43,12,Juvenile phase,slippery dick wrasse,U,E2,2,NA,day 0 hour 2,Halichoeres bivittatus,60,day 0 hour 2_U
+2025-10-23,16:17:00,4:48,19,initial phase,stoplight parrotfish,J,B3,1,NA,day 0 hour 2,Sparisoma viride,60,day 0 hour 2_J
+2025-10-23,16:17:00,4:54,19,initial phase,stoplight parrotfish,J,A4,5,NA,day 0 hour 2,Sparisoma viride,60,day 0 hour 2_J
+2025-10-23,16:18:00,5:22,12,Juvenile phase,slippery dick wrasse,V,E2,7,NA,day 0 hour 2,Halichoeres bivittatus,60,day 0 hour 2_V
+2025-10-23,16:18:00,5:44,12,Juvenile phase,slippery dick wrasse,W,B7,8,NA,day 0 hour 2,Halichoeres bivittatus,60,day 0 hour 2_W
+2025-10-23,16:19:00,6:26,12,Juvenile phase,slippery dick wrasse,W,E2,2,NA,day 0 hour 2,Halichoeres bivittatus,60,day 0 hour 2_W
+2025-10-23,16:25:00,0:35,10,Juvenile phase,stoplight parrotfish,A,C2,2,NA,day 0 hour 3,Sparisoma viride,60,day 0 hour 3_A
+2025-10-23,16:27:00,2:03,20,initial phase,stoplight parrotfish,A,C2,1,NA,day 0 hour 3,Sparisoma viride,60,day 0 hour 3_A
+2025-10-23,16:27:00,2:52,11,Juvenile phase,slippery dick wrasse,A,E2,1,NA,day 0 hour 3,Halichoeres bivittatus,60,day 0 hour 3_A
+2025-10-23,16:29:00,2:42,12,terminal phase,tomtate,A,E6,1,NA,day 0 hour 3,Haemulon aurolineatum,60,day 0 hour 3_A
+2025-10-23,16:30:00,5:16,20,initial phase,stoplight parrotfish,B,G2,1,NA,day 0 hour 3,Sparisoma viride,60,day 0 hour 3_B
+2025-10-23,16:30:00,5:39,12,terminal phase,tomtate,B,F7,1,NA,day 0 hour 3,Haemulon aurolineatum,60,day 0 hour 3_B
+2025-10-23,16:30:00,5:52,12,terminal phase,tomtate,C,C6,1,NA,day 0 hour 3,Haemulon aurolineatum,60,day 0 hour 3_C
+2025-10-23,16:31:00,5:59,10,Juvenile phase,slippery dick wrasse,B,E2,2,NA,day 0 hour 3,Halichoeres bivittatus,60,day 0 hour 3_B
+2025-10-23,16:31:00,6:10,14,Juvenile phase,slippery dick wrasse,C,E2,1,NA,day 0 hour 3,Halichoeres bivittatus,60,day 0 hour 3_C
+2025-10-23,16:31:00,6:11,14,Juvenile phase,slippery dick wrasse,C,C2,1,NA,day 0 hour 3,Halichoeres bivittatus,60,day 0 hour 3_C
+2025-10-23,16:31:00,6:18,14,Juvenile phase,slippery dick wrasse,C,E2,1,NA,day 0 hour 3,Halichoeres bivittatus,60,day 0 hour 3_C
+2025-10-23,16:31:00,6:54,12,terminal phase,tomtate,D,C4,1,NA,day 0 hour 3,Haemulon aurolineatum,60,day 0 hour 3_D
+2025-10-23,16:32:00,7:02,12,terminal phase,tomtate,D,A4,1,NA,day 0 hour 3,Haemulon aurolineatum,60,day 0 hour 3_D
+2025-10-23,16:32:00,7:20,13,Juvenile phase,slippery dick wrasse,D,E2,1,NA,day 0 hour 3,Halichoeres bivittatus,60,day 0 hour 3_D
+2025-10-23,16:34:00,9:31,60,terminal phase,rainbow parrotfish,A,F7,1,NA,day 0 hour 3,Scarus guacamaia,60,day 0 hour 3_A
+2025-10-23,16:41:00,15:55,11,terminal phase,tomtate,E,C4,1,NA,day 0 hour 3,Haemulon aurolineatum,60,day 0 hour 3_E
+2025-10-23,16:41:00,16:10,11,terminal phase,tomtate,E,B5,1,NA,day 0 hour 3,Haemulon aurolineatum,60,day 0 hour 3_E
+2025-10-23,16:41:00,16:19,11,terminal phase,tomtate,E,C6,1,NA,day 0 hour 3,Haemulon aurolineatum,60,day 0 hour 3_E
+2025-10-23,16:42:00,17:44,11,terminal phase,tomtate,F,B3,2,NA,day 0 hour 3,Haemulon aurolineatum,60,day 0 hour 3_F
+2025-10-23,16:42:00,17:53,20,initial phase,stoplight parrotfish,C,B5,1,NA,day 0 hour 3,Sparisoma viride,60,day 0 hour 3_C
+2025-10-23,16:44:00,19:28,11,terminal phase,tomtate,G,C6,2,NA,day 0 hour 3,Haemulon aurolineatum,60,day 0 hour 3_G
+2025-10-23,16:48:00,23:10,11,terminal phase,tomtate,H,A4,2,NA,day 0 hour 3,Haemulon aurolineatum,60,day 0 hour 3_H
+2025-10-23,16:53:00,4:27,11,terminal phase,tomtate,I,B5,1,NA,day 0 hour 3,Haemulon aurolineatum,60,day 0 hour 3_I
+2025-10-23,16:58:00,9:01,13,Juvenile phase,slippery dick wrasse,E,F5,2,NA,day 0 hour 3,Halichoeres bivittatus,60,day 0 hour 3_E
+2025-10-23,17:13:00,0:48,11,terminal phase,tomtate,J,F1,2,NA,day 0 hour 3,Haemulon aurolineatum,60,day 0 hour 3_J
+2025-10-23,17:19:00,6:25,17,initial phase,stoplight parrotfish,D,B5,7,NA,day 0 hour 3,Sparisoma viride,60,day 0 hour 3_D
+2025-10-23,17:19:00,6:50,17,initial phase,stoplight parrotfish,D,C4,1,NA,day 0 hour 3,Sparisoma viride,60,day 0 hour 3_D
+2025-10-23,17:19:00,6:53,17,initial phase,stoplight parrotfish,D,B3,1,NA,day 0 hour 3,Sparisoma viride,60,day 0 hour 3_D
+2025-10-23,17:20:00,6:56,17,initial phase,stoplight parrotfish,D,A4,1,NA,day 0 hour 3,Sparisoma viride,60,day 0 hour 3_D
+2025-10-23,17:20:00,7:33,17,initial phase,stoplight parrotfish,D,E6,1,NA,day 0 hour 3,Sparisoma viride,60,day 0 hour 3_D
+2025-10-23,17:20:00,7:49,18,initial phase,stoplight parrotfish,E,B7,1,NA,day 0 hour 3,Sparisoma viride,60,day 0 hour 3_E
+2025-10-25,07:23:00,4:35,12,initial phase,french grunt,A,B7,1,initial phasefrench grunt,day 2,Haemulon flavolineatum,355,day 2_A
+2025-10-25,07:25:00,5:05,38,intermediate phase,gray angelfish,A,B1,1,intermediate phasegray angelfish,day 2,Pomacanthus arcuatus,355,day 2_A
+2025-10-25,07:33:00,6:45,12,Juvenile phase,slippery dick wrasse,A,A6,1,juvenile phaseslippery dick wrasse,day 2,Halichoeres bivittatus,355,day 2_A
+2025-10-25,07:39:00,7:54,15,terminal phase,slippery dick wrasse,A,A8,1,terminal phaseslippery dick wrasse,day 2,Halichoeres bivittatus,355,day 2_A
+2025-10-25,07:48:00,9:45,12,Juvenile phase,slippery dick wrasse,B,B5,1,juvenile phaseslippery dick wrasse,day 2,Halichoeres bivittatus,355,day 2_B
+2025-10-25,07:53:00,10:37,12,terminal phase,tomtate,A,A4,1,terminal phasetomtate,day 2,Haemulon aurolineatum,355,day 2_A
+2025-10-25,07:57:00,11:32,10,Juvenile phase,slippery dick wrasse,C,A2,1,juvenile phaseslippery dick wrasse,day 2,Halichoeres bivittatus,355,day 2_C
+2025-10-25,07:58:00,11:41,10,Juvenile phase,slippery dick wrasse,C,C2,1,juvenile phaseslippery dick wrasse,day 2,Halichoeres bivittatus,355,day 2_C
+2025-10-25,07:59:00,11:49,20,initial phase,stoplight parrotfish,A,A6,2,initial phasestoplight parrotfish,day 2,Sparisoma viride,355,day 2_A
+2025-10-25,08:03:00,12:34,15,Juvenile phase,stoplight parrotfish,A,A2,2,juvenile phasestoplight parrotfish,day 2,Sparisoma viride,355,day 2_A
+2025-10-25,08:03:00,12:36,15,initial phase,striped parrotfish,A,A6,1,initial phasestriped parrotfish,day 2,Scarus iseri,355,day 2_A
+2025-10-25,08:03:00,12:38,18,initial phase,stoplight parrotfish,B,A6,1,initial phasestoplight parrotfish,day 2,Sparisoma viride,355,day 2_B
+2025-10-25,08:03:00,12:40,15,initial phase,striped parrotfish,B,G4,1,initial phasestriped parrotfish,day 2,Scarus iseri,355,day 2_B
+2025-10-25,08:06:00,13:09,10,Juvenile phase,slippery dick wrasse,D,A8,1,juvenile phaseslippery dick wrasse,day 2,Halichoeres bivittatus,355,day 2_D
+2025-10-25,08:06:00,13:16,10,Juvenile phase,slippery dick wrasse,D,B7,1,juvenile phaseslippery dick wrasse,day 2,Halichoeres bivittatus,355,day 2_D
+2025-10-25,08:11:00,14:13,15,initial phase,striped parrotfish,C,F7,6,initial phasestriped parrotfish,day 2,Scarus iseri,355,day 2_C
+2025-10-25,12:38:00,22:46,25,terminal phase,stoplight parrotfish,A,A2,1,terminal phasestoplight parrotfish,day 2,Sparisoma viride,355,day 2_A
+2025-10-26,07:47:00,8:32,12,terminal phase,banded butterflyfish,A,C2,1,terminal phasebanded butterflyfish,day 3,Chaetodon striatus,141,day 3_A
+2025-10-26,07:48:00,8:44,18,initial phase,stoplight parrotfish,A,A6,1,initial phasestoplight parrotfish,day 3,Sparisoma viride,141,day 3_A
+2025-10-26,07:48:00,8:44,12,terminal phase,banded butterflyfish,B,A6,1,terminal phasebanded butterflyfish,day 3,Chaetodon striatus,141,day 3_B
+2025-10-26,07:52:00,9:26,13,terminal phase,tomtate,A,F1,1,terminal phasetomtate,day 3,Haemulon aurolineatum,141,day 3_A
+2025-10-26,07:55:00,10:08,13,initial phase,striped parrotfish,A,A6,1,initial phasestriped parrotfish,day 3,Scarus iseri,141,day 3_A
+2025-10-26,07:56:00,10:09,13,initial phase,striped parrotfish,A,A4,1,initial phasestriped parrotfish,day 3,Scarus iseri,141,day 3_A
+2025-10-26,07:59:00,10:46,12,Juvenile phase,stoplight parrotfish,A,A2,2,juvenile phasestoplight parrotfish,day 3,Sparisoma viride,141,day 3_A
+2025-10-26,08:09:00,12:55,16,initial phase,stoplight parrotfish,B,G2,1,initial phasestoplight parrotfish,day 3,Sparisoma viride,141,day 3_B
+2025-10-26,08:10:00,13:07,16,initial phase,stoplight parrotfish,B,G4,3,initial phasestoplight parrotfish,day 3,Sparisoma viride,141,day 3_B
+2025-10-26,08:11:00,13:14,16,initial phase,stoplight parrotfish,B,F5,3,initial phasestoplight parrotfish,day 3,Sparisoma viride,141,day 3_B
+2025-10-26,08:12:00,13:19,16,initial phase,stoplight parrotfish,B,G2,2,initial phasestoplight parrotfish,day 3,Sparisoma viride,141,day 3_B
+2025-10-26,08:21:00,15:20,13,Juvenile phase,stoplight parrotfish,B,B3,2,juvenile phasestoplight parrotfish,day 3,Sparisoma viride,141,day 3_B
+2025-10-26,08:23:00,15:40,20,initial phase,yellowtail parrotfish,A,G6,1,initial phaseyellowtail parrotfish,day 3,Sparisoma rubripinne,141,day 3_A
+2025-10-26,08:25:00,16:08,22,terminal phase,striped parrotfish,A,A6,2,terminal phasestriped parrotfish,day 3,Scarus iseri,141,day 3_A
+2025-10-26,08:32:00,17:29,13,Juvenile phase,stoplight parrotfish,C,B1,1,juvenile phasestoplight parrotfish,day 3,Sparisoma viride,141,day 3_C
+2025-10-26,08:32:00,17:31,12,terminal phase,banded butterflyfish,C,A6,1,terminal phasebanded butterflyfish,day 3,Chaetodon striatus,141,day 3_C
+2025-10-26,08:34:00,17:55,12,terminal phase,banded butterflyfish,D,B7,1,terminal phasebanded butterflyfish,day 3,Chaetodon striatus,141,day 3_D
+2025-10-26,08:36:00,18:20,10,Juvenile phase,slippery dick wrasse,A,A6,1,juvenile phaseslippery dick wrasse,day 3,Halichoeres bivittatus,141,day 3_A
+2025-10-26,08:41:00,19:21,10,terminal phase,banded butterflyfish,E,A4,1,terminal phasebanded butterflyfish,day 3,Chaetodon striatus,141,day 3_E
+2025-10-26,08:42:00,19:22,13,terminal phase,banded butterflyfish,F,A4,1,terminal phasebanded butterflyfish,day 3,Chaetodon striatus,141,day 3_F
+2025-10-26,08:42:00,19:23,14,terminal phase,slippery dick wrasse,A,A6,1,terminal phaseslippery dick wrasse,day 3,Halichoeres bivittatus,141,day 3_A
+2025-10-26,08:51:00,21:21,13,terminal phase,banded butterflyfish,G,B7,1,terminal phasebanded butterflyfish,day 3,Chaetodon striatus,141,day 3_G
+2025-10-26,08:52:00,21:22,13,terminal phase,banded butterflyfish,G,A4,1,terminal phasebanded butterflyfish,day 3,Chaetodon striatus,141,day 3_G
+2025-10-26,08:53:00,21:45,10,Juvenile phase,slippery dick wrasse,B,A6,1,juvenile phaseslippery dick wrasse,day 3,Halichoeres bivittatus,141,day 3_B
+2025-10-26,08:54:00,21:47,12,terminal phase,tomtate,A,A4,1,terminal phasetomtate,day 3,Haemulon aurolineatum,141,day 3_A
+2025-10-26,08:54:00,21:49,10,Juvenile phase,slippery dick wrasse,B,A6,1,juvenile phaseslippery dick wrasse,day 3,Halichoeres bivittatus,141,day 3_B
+2025-10-26,08:55:00,22:04,20,initial phase,yellowtail parrotfish,B,B5,2,initial phaseyellowtail parrotfish,day 3,Sparisoma rubripinne,141,day 3_B
+2025-10-26,08:56:00,22:12,10,Juvenile phase,slippery dick wrasse,C,F7,1,juvenile phaseslippery dick wrasse,day 3,Halichoeres bivittatus,141,day 3_C
+2025-10-26,08:58:00,22:36,10,Juvenile phase,slippery dick wrasse,D,A6,1,juvenile phaseslippery dick wrasse,day 3,Halichoeres bivittatus,141,day 3_D
+2025-10-26,08:58:00,22:41,20,initial phase,yellowtail parrotfish,C,A6,2,initial phaseyellowtail parrotfish,day 3,Sparisoma rubripinne,141,day 3_C
+2025-10-26,08:59:00,22:47,10,Juvenile phase,slippery dick wrasse,E,A4,1,juvenile phaseslippery dick wrasse,day 3,Halichoeres bivittatus,141,day 3_E
+2025-10-26,08:59:00,22:52,13,terminal phase,banded butterflyfish,H,A6,1,terminal phasebanded butterflyfish,day 3,Chaetodon striatus,141,day 3_H
+2025-10-26,08:59:00,22:53,15,Juvenile phase,striped parrotfish,A,A4,2,juvenile phasestriped parrotfish,day 3,Scarus iseri,141,day 3_A
+2025-10-26,09:19:00,2:50,22,terminal phase,striped parrotfish,B,A6,2,terminal phasestriped parrotfish,day 3,Scarus iseri,141,day 3_B
+2025-10-26,09:23:00,3:34,22,terminal phase,striped parrotfish,C,A4,1,terminal phasestriped parrotfish,day 3,Scarus iseri,141,day 3_C
+2025-10-27,18:15:00,1:54,12,terminal phase,banded butterflyfish,A,A6,1,terminal phase banded butterflyfish,day 4,Chaetodon striatus,61,day 4_A
+2025-10-27,18:15:00,1:57,12,terminal phase,banded butterflyfish,A,A4,1,terminal phase banded butterflyfish,day 4,Chaetodon striatus,61,day 4_A
+2025-10-27,18:27:00,8:04,22,terminal phase,striped parrotfish,A,A6,2,terminal phase striped parrotfish,day 4,Scarus iseri,61,day 4_A
