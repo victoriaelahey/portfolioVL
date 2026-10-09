@@ -62,8 +62,8 @@ dim(fish_predation)
 # EXPORT #######################################################################
 
 ## Export cleaned data ---------------------------------------------------------
-write_csv(fish_predation, "data/processed/fish_predation.csv")
-write_csv(bite_summary, "data/processed/bite_summary.csv")
+write_rds(fish_predation, "data/processed/fish_predation.rds")
+write_rds(bite_summary, "data/processed/bite_summary.rds")
 
 
 
