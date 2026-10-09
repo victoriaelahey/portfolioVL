@@ -17,7 +17,7 @@ ggplot(data = data_lionfish, aes(x = site)) +
   labs(x = "Site", y = "Number of fish") 
 
 # Bar plot with sites ordered by frequency
-ggplot(data = data_lionfish, aes(x = fct_infreq(site))) +
+p <- ggplot(data = data_lionfish, aes(x = fct_infreq(site))) +
   geom_bar() +
   coord_flip() +
   labs(x = "Site", y = "Number of fish")
