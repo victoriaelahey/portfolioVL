@@ -33,7 +33,9 @@ p1 <- ggplot(data = predation_summary,
              y = fct_reorder(scientific_name, total_bites))) + ##orders by total
   geom_col(fill = "blue") +
   labs(x = "Total bites", y = "Scientific name",
-       title = "Total bites by species") +
+       title = "Total bites by species", 
+       caption = "Data: Documented predation events from Coral City Camera footage 
+       of Porites astreoides") +
   theme_bw()
 p1
 
@@ -44,7 +46,9 @@ p2 <- ggplot(data = predation,
            color = scientific_name)) +
   geom_jitter(alpha = 0.6, width = 0.3, height = 0.2) +
   labs(x = "Fork length (cm)", y = "Number of bites", color = "Species",
-       title = "Mean bites by fish size" ) +
+       title = "Mean bites by fish size",
+       caption = "Data: Documented predation events from Coral City Camera footage 
+       of Porites astreoides") +
   theme_bw() 
 p2
 
@@ -56,7 +60,9 @@ p3 <- ggplot(data = predation,
   geom_boxplot() +
   geom_jitter(height = 0.15, alpha = 0.3) +
   labs(x = "Number of bites per fish", y = "Species",
-       title = "Bites per fish by species") +
+       title = "Bites per fish by species",
+       caption = "Data: Documented predation events from Coral City Camera footage 
+       of Porites astreoides") +
   theme_bw()
 p3
 
