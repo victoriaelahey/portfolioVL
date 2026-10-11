@@ -18,12 +18,13 @@ Porites astreoides coral fragments as an undergrad last semester.
 
 R-scripts:
 - file: data_processing.R
-- location: scripts/01_processing
-- purpose: cleans the raw data, and summarizes predation events (bites) by species 
-and exports the newly cleaned data sets. 
+    - location: scripts/01_processing
+    - purpose: cleans the raw data, and summarizes predation events (bites) by species 
+      and exports the newly cleaned data sets. 
 
 - file: exploratory_data_visualization.R
-- location: scripts/03_content
-- purpose: reads the cleaned data from "data_processing.R" that was made and builds 
-three plots and exports the figures. 
+    - location: scripts/03_content
+    - purpose: reads the cleaned data from "data_processing.R" that was made and builds 
+      three plots and exports the figures. 
 
+Cleaned data:
