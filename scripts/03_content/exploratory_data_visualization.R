@@ -4,10 +4,10 @@
 # vel28@miami.edu
 # 10/05/2026
 #
-# This script reads in fish-predation data collected on Porites astreoides coral
-# fragments using Coral City Camera footage. This script cleans the data into a 
-# tidy format using dplyr and tidyr,summarizes predation events by fish species, 
-# and exports the clean data as a .csv file for later use. 
+# This script reads the cleaned fish-predation data collected on Porites
+# astreoides coral fragments from Coral City Camera footage and creates three
+#  plots: total bites by species, bites vs. fish size, and bites per
+# fish by species. The plots are exported as .png files to results/img/.
 
 ################################################################################
 
