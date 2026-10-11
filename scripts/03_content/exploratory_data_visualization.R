@@ -28,9 +28,10 @@ predation <- read_csv("data/processed/fish_predation.csv")
 ## Build plots -----------------------------------------------------------------
 
 ### Plot 1: Total bites by species
+# which species will account for the most overall bites? (uses predation_summmary)
 p1 <- ggplot(data = predation_summary,
              mapping = aes(x = total_bites,
-             y = fct_reorder(scientific_name, total_bites))) + ##orders by total
+             y = fct_reorder(scientific_name, total_bites))) + # orders by total
   geom_col(fill = "blue") +
   labs(x = "Total bites", y = "Scientific name",
        title = "Total bites by species", 
@@ -41,10 +42,12 @@ p1
 
 
 ### Plot 2: Mean bites by fish size 
+# will fish size have a correlation with mean bites? 
 p2 <- ggplot(data = predation,
        mapping = aes(x = fork_length_cm, y = number_of_bites,
            color = scientific_name)) +
-  geom_jitter(alpha = 0.6, width = 0.3, height = 0.2) +
+  geom_jitter(alpha = 0.6, width = 0.3, height = 0.2) + # makes points transparent 
+  # where overlaps are and nudges points so they don't sit on top of each other
   labs(x = "Fork length (cm)", y = "Number of bites", color = "Species",
        title = "Mean bites by fish size",
        caption = "Data: Documented predation events from Coral City Camera footage 
