@@ -38,12 +38,13 @@ p1 <- ggplot(data = predation_summary,
 p1
 
 
-### Plot 2: Mean bites by fish size class
+### Plot 2: Mean bites by fish size 
 p2 <- ggplot(data = predation,
        mapping = aes(x = fork_length_cm, y = number_of_bites,
            color = scientific_name)) +
   geom_jitter(alpha = 0.6, width = 0.3, height = 0.2) +
-  labs(x = "Fork length (cm)", y = "Number of bites", color = "Species") +
+  labs(x = "Fork length (cm)", y = "Number of bites", color = "Species",
+       title = "Mean bites by fish size" ) +
   theme_bw() 
 p2
 
