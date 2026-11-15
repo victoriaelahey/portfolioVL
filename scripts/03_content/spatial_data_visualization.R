@@ -26,3 +26,10 @@ library(ggspatial) # north arrow and scale bar
 
 bite_summary <- read_csv("data/processed/bite_summary.csv")
 
+## Load world map data ---------------------------------------------------------
+
+world <- ne_countries(
+  scale = "medium",
+  returnclass = "sf"
+)
+
