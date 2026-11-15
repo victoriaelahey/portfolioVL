@@ -30,6 +30,17 @@ bite_summary <- read_csv("data/processed/bite_summary.csv")
 
 world <- ne_countries(
   scale = "medium",
-  returnclass = "sf"
-)
+  returnclass = "sf")
+
+## Create Coral City Camera spatial point --------------------------------------
+
+# Coordinates of Coral City Camera are in decimal degrees with the total bites 
+ccc_point <- data.frame(   # create new object
+  site = "Coral City Camera", # naming the site
+  total_bites = sum(bite_summary$total_bites, na.rm = TRUE), # numeric total number of bites.
+  lon = -80.151,    # coordinate of CCC in the port of Miami
+  lat = 25.774
+) |>
+  st_as_sf(coords = c("lon", "lat"), crs = 4326) # convert data frame into sf object
+
 
