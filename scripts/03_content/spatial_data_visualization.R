@@ -66,5 +66,9 @@ map <- ggplot() +
   geom_sf(data = world,           # Base layer (land for context)
           fill = "grey85",        # Land fill
           color = "grey50",       # Outlines to show borders
-          linewidth = 0.2)
+          linewidth = 0.2) +      # Outline thickness
+  geom_sf(data = ccc_point,       # Study site
+          aes(size = total_bites),# Point size designated by total bites
+          color = "firebrick",
+          alpha = 0.8)
 
