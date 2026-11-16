@@ -8,7 +8,7 @@
 #
 # Working with spatial data to produce a map of my study site,
 # Coral City Camera in the Port of Miami Florida.
-# Research: Fish predation on Porites astreoides microfragments
+# Fish predation on Porites astreoides microfragments
 #
 #
 ################################################################################
@@ -21,6 +21,7 @@ library(sf) # for spatial data
 library(rnaturalearth) # world map source
 library(rnaturalearthdata)
 library(ggspatial) # north arrow and scale bar
+library(mapview) # quick interactive map inspection
 
 ## Load data -------------------------------------------------------------------
 
@@ -29,8 +30,8 @@ bite_summary <- read_csv("data/processed/bite_summary.csv")
 ## Load world map data ---------------------------------------------------------
 
 world <- ne_countries(
-  scale = "medium",
-  returnclass = "sf")
+  scale = "medium",   # scale set to medium
+  returnclass = "sf") #Ensure compatibility with geom_sf()
 
 ## Create Coral City Camera spatial point --------------------------------------
 
@@ -43,4 +44,18 @@ ccc_point <- data.frame(   # create new object
 ) |>
   st_as_sf(coords = c("lon", "lat"), crs = 4326) # convert data frame into sf object
 
+## Load and crop base layer ----------------------------------------------------
+
+# Load coastline for the study area
+coast <- ne_countries(country = "United States of America") # polygons for the US
+
+# Crop the coastline to southeast Florida
+fl_coast <- st_crop(coast,    # Object to crop (US boundary) to the FL coast
+  xmin = -81.5, xmax = -79.5, # West and east limits (longitude)
+  ymin = 24.8, ymax = 26.8)  # South and north limits (latitude)
+
+## Quick inspection ------------------------------------------------------------
+
+mapviewOptions(basemaps = "Esri.WorldGrayCanvas")
+mapview(list(fl_coast, ccc_point))
 
