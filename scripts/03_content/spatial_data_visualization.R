@@ -70,5 +70,19 @@ map <- ggplot() +
   geom_sf(data = ccc_point,       # Study site
           aes(size = total_bites),# Point size designated by total bites
           color = "firebrick",
-          alpha = 0.8)
+          alpha = 0.8) +
+  coord_sf(xlim = c(-81.5, -79.5),  # Zoom to southeast Florida
+           ylim = c(24.8, 26.8),
+           expand = FALSE) 
+
+
+
+
+
+
+
+
+
+
+
 
