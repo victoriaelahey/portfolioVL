@@ -85,4 +85,14 @@ map <- ggplot() +
        caption = "Base map: Natural Earth. Data: CCC fish predation study.") +
   annotation_scale(location = "br",
                    width_hint = 0.4,                 # Control length of scale bar
-                   pad_y = unit(0.3, "cm")) 
+                   pad_y = unit(0.3, "cm")) +        # Padding from bottom edge
+  annotation_north_arrow(location = "bl",
+                         which_north = "true",             # True North
+                         height = unit(2, "cm"),
+                         width = unit(2, "cm"),
+                         pad_x = unit(1, "cm"),          # Padding from left edge
+                         pad_y = unit(1, "cm"),          # Padding from bottom
+                         style = north_arrow_nautical())
+
+map
+
