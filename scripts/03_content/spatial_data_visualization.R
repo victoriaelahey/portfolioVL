@@ -77,7 +77,7 @@ map <- ggplot() +
            expand = FALSE) +
   theme_bw() +
   theme(panel.background = element_rect(fill = "lightblue")) +   # Ocean color
-  labs(title = "CCC study site, Port of Miami",
+  labs(title = "Coral City Camera (CCC) in the Port of Miami",
        subtitle = "Fish predation on Porites astreoides microfragments",
        x = "Longitude (°)",
        y = "Latitude (°)",
