@@ -7,7 +7,7 @@
 # 11/15/2026
 #
 # Working with spatial data to produce a map of my study site,
-# Coral City Camera in the Port of Miami Florida.
+# Coral City Camera (CCC) in the Port of Miami Florida.
 # Fish predation on Porites astreoides microfragments
 #
 #
@@ -23,6 +23,7 @@ library(rnaturalearthdata)
 library(ggspatial) # north arrow and scale bar
 library(mapview) # quick interactive map inspection
 
+
 ## Load data -------------------------------------------------------------------
 
 bite_summary <- read_csv("data/processed/bite_summary.csv")
@@ -37,7 +38,7 @@ world <- ne_countries(
 
 # Coordinates of Coral City Camera are in decimal degrees with the total bites 
 ccc_point <- data.frame(   # create new object
-  site = "Coral City Camera", # naming the site
+  site = "CCC", # naming the site
   total_bites = sum(bite_summary$total_bites, na.rm = TRUE), # numeric total number of bites.
   lon = -80.151,    # coordinate of CCC in the port of Miami
   lat = 25.774
@@ -75,5 +76,10 @@ map <- ggplot() +
            ylim = c(24.8, 26.8),
            expand = FALSE) +
   theme_bw() +
-  theme(panel.background = element_rect(fill = "lightblue")) 
-
+  theme(panel.background = element_rect(fill = "lightblue")) +   # Ocean color
+  labs(title = "CCC study site, Port of Miami",
+       subtitle = "Fish predation on Porites astreoides microfragments",
+       x = "Longitude (°)",
+       y = "Latitude (°)",
+       size = "Total bites (count)",
+       caption = "Base map: Natural Earth. Data: CCC fish predation study.")
