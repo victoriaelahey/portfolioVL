@@ -84,14 +84,14 @@ map <- ggplot() +
        size = "Total bites (count)",
        caption = "Base map: Natural Earth. Data: CCC fish predation study.") +
   annotation_scale(location = "br",
-                   width_hint = 0.4,                 # Control length of scale bar
-                   pad_y = unit(0.3, "cm")) +        # Padding from bottom edge
+                   width_hint = 0.4,              # Control length of scale bar
+                   pad_y = unit(0.3, "cm")) +     # Padding from bottom edge
   annotation_north_arrow(location = "bl",
-                         which_north = "true",             # True North
+                         which_north = "true",    # True North
                          height = unit(2, "cm"),
                          width = unit(2, "cm"),
-                         pad_x = unit(1, "cm"),          # Padding from left edge
-                         pad_y = unit(1, "cm"),          # Padding from bottom
+                         pad_x = unit(1, "cm"),   # Padding from left edge
+                         pad_y = unit(1, "cm"),   # Padding from bottom
                          style = north_arrow_nautical())
 
 map
@@ -101,10 +101,10 @@ map
 # Save the map as a PNG
 ggsave(
   filename = "results/img/coral_city_camera_map.png",  # Relative path, PNG format
-  plot = map,                                          # The ggplot object to save
-  width = 7,                                           # Width in inches
-  height = 6,                                          # Height in inches
-  dpi = 300)                                            # Resolution (print quality)
+  plot = map,       # The ggplot object to save
+  width = 7,        # Width in inches
+  height = 6,       # Height in inches
+  dpi = 300)        # Resolution 
 
 
 
