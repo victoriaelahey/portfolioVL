@@ -82,4 +82,7 @@ map <- ggplot() +
        x = "Longitude (°)",
        y = "Latitude (°)",
        size = "Total bites (count)",
-       caption = "Base map: Natural Earth. Data: CCC fish predation study.")
+       caption = "Base map: Natural Earth. Data: CCC fish predation study.") +
+  annotation_scale(location = "br",
+                   width_hint = 0.4,                 # Control length of scale bar
+                   pad_y = unit(0.3, "cm")) 
