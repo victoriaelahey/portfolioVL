@@ -14,7 +14,7 @@
 ################################################################################
 
 ## Load packages ---------------------------------------------------------------
-# (install.packages(c("rnaturalearth", "rnaturalearthdata")) in Console if needed)
+# (install.packages(c("rnaturalearth", "rnaturalearthdata")) in Console)
 
 library(tidyverse) # for data wrangling and ggplot2
 library(sf) # for spatial data
