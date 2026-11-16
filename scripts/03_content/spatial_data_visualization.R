@@ -96,3 +96,26 @@ map <- ggplot() +
 
 map
 
+## Export figure -------------------------------------------------------------
+
+# Save the map as a PNG
+ggsave(
+  filename = "results/img/coral_city_camera_map.png",  # Relative path, PNG format
+  plot = map,                                          # The ggplot object to save
+  width = 7,                                           # Width in inches
+  height = 6,                                          # Height in inches
+  dpi = 300)                                            # Resolution (print quality)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
