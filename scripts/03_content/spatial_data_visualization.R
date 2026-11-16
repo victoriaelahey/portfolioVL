@@ -59,3 +59,12 @@ fl_coast <- st_crop(coast,    # Object to crop (US boundary) to the FL coast
 mapviewOptions(basemaps = "Esri.WorldGrayCanvas")
 mapview(list(fl_coast, ccc_point))
 
+
+## Build Map -------------------------------------------------------------------
+
+map <- ggplot() +
+  geom_sf(data = world,           # Base layer (land for context)
+          fill = "grey85",        # Land fill
+          color = "grey50",       # Outlines to show borders
+          linewidth = 0.2)
+
