@@ -80,7 +80,6 @@ map <- ggplot() +
   labs(title = "Coral City Camera (CCC) in the Port of Miami",
        subtitle = expression("Fish predation on " * italic("Porites astreoides")
                              * " microfragments"),  # italicize species name
-     x = "Longitude (°)",
        x = "Longitude (°)",
        y = "Latitude (°)",
        size = "Total bites (count)",
