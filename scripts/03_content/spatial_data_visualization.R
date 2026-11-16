@@ -73,16 +73,7 @@ map <- ggplot() +
           alpha = 0.8) +
   coord_sf(xlim = c(-81.5, -79.5),  # Zoom to southeast Florida
            ylim = c(24.8, 26.8),
-           expand = FALSE) 
-
-
-
-
-
-
-
-
-
-
-
+           expand = FALSE) +
+  theme_bw() +
+  theme(panel.background = element_rect(fill = "lightblue")) 
 
