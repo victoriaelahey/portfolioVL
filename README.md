@@ -40,30 +40,11 @@ and study site.
   - `scripts/03_content/spatial_data_visualization.R`: Reads `data/processed/bite_summary.csv` and the Natural Earth polygons, maps the study site, and exports `results/img/coral_city_camera_map.png`
 
 
-
-
-## Figures:
-- **figure name:** total_bites_by_species.png
-    - **location:** results/img/
-    - **purpose:** bar chart of total bites by species
-
-- **figure name:** mean_bites_by_fish_size.png
-    - **location:** results/img/
-    - **purpose:** scatter plot of fork length vs the number of bites colored by species
-
-- **figure name:** bites_per_fish.png
-    - **location:** results/img/
-    - **purpose:** box plot of bites per fish 
-    
-- **figure name:** coral_city_camera_map.png
-    - **location:** results/img/
-    - **purpose:** map of study site where camera was placed and data was collected
-    
-    
-
-
-
-
+- `results`: Contains all output figures
+  - `results/img/total_bites_by_species.png`: Bar chart of total bites by species, produced by `scripts/03_content/exploratory_data_visualization.R`
+  - `results/img/mean_bites_by_fish_size.png`: Scatter plot of fork length vs number of bites, colored by species, produced by `scripts/03_content/exploratory_data_visualization.R`
+  - `results/img/bites_per_fish.png`: Box plot of bites per fish, produced by `scripts/03_content/exploratory_data_visualization.R`
+  - `results/img/coral_city_camera_map.png`: Map of the study site where the camera was placed, produced by `scripts/03_content/spatial_data_visualization.R`
 
 
 
