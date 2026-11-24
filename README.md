@@ -7,7 +7,8 @@ Victoria Ellen Lahey
 This project examines which fish species predate on *Porites astreoides* coral 
 fragments and how many bites they take, using fish-predation observations from 
 Coral City Camera footage. It cleans the raw data into a tidy format, summarizes 
-bites by species, and visualizes how bite counts vary across species and fish size.
+bites by species, and visualizes how bite counts vary across species, fish size 
+and study site.
 
 
 ## Data sources
@@ -16,7 +17,21 @@ bites by species, and visualizes how bite counts vary across species and fish si
 
 - **fish_predation.csv:** Fish predation on *Porites astreoides* fragments at Coral City Camera
 - **Source:** Observations I recorded from Coral City Camera footage as an undergraduate student
+- **Date of access:** 04/2026 recorded
 
+### Natural Earth country polygons (not stored in this repo)
+
+- **Title of the dataset:** Natural Earth countries (medium scale)
+- **Source:** Natural Earth, accessed through the `rnaturalearth` R package: <https://www.naturalearthdata.com/>
+- **Date of access:** Nov 15, 2026
+
+
+## Repository structure and contents
+
+- `data`: Contains the raw and processed data
+  - `data/raw/fish_predation.csv`: Raw fish-predation observations
+  - `data/processed/fish_predation.csv`: Tidy observation data with `date`, `timepoint`, `scientific_name`, `fork_length_cm`, and `number_of_bites`
+  - `data/processed/bite_summary.csv`: Summary of species with `total_bites`, `mean_bites`, `mean_fork_length`, and `n`
 
 ## R-scripts:
 - **script name:** data_processing.R
@@ -35,17 +50,6 @@ bites by species, and visualizes how bite counts vary across species and fish si
       incorporated the coordinates of the study site to map a plot where the data 
       was collected. 
 
-
-## Cleaned data:
-- **dataset:** fish_predation.csv
-    - **location:** data/processed/
-    - **purpose:** tidy observation data that only includes date, timepoint, scientific_name
-      fork_length_cm, and number_of_bites.
-
-- **dataset**: bite_summary.csv
-    - **location:** data/processed/
-    - **purpose:** summarizes the observation data and includes total_bites, mean_bites, 
-      mean_fork_length, n.
 
 
 ## Figures:
