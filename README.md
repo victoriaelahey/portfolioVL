@@ -1,10 +1,10 @@
-# Fish Predation on Porites astreoides Coral Fragments
+# Fish Predation on *Porites astreoides* Coral Fragments
 
 ## Author 
 Victoria Ellen Lahey
 
 ## Description
-This project examines which fish species predate on Porites astreoides coral 
+This project examines which fish species predate on *Porites astreoides* coral 
 fragments and how many bites they take, using fish-predation observations from 
 Coral City Camera footage. It cleans the raw data into a tidy format, summarizes 
 bites by species, and visualizes how bite counts vary across species and fish size.
