@@ -27,6 +27,12 @@ R-scripts:
     - location: scripts/03_content/
     - purpose: reads the cleaned data from "data_processing.R" that was made and builds 
       three plots and exports the figures. 
+      
+- file: spatial_data_visualization.R
+    - location: scripts/03_content/
+    - purpose: reads the cleaned data from "data_processing.R" that was made and 
+      incorporated the coordinates of the study site to map a plot where the data 
+      was collected. 
 
 
 Cleaned data:
@@ -53,6 +59,9 @@ Figures:
 - file: bites_per_fish.png
     - location: results/img/
     - purpose: box plot of bites per fish 
+    
+    
+    
 
 
 
