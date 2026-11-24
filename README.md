@@ -7,17 +7,17 @@ Victoria Ellen Lahey
 This project examines which fish species predate on *Porites astreoides* coral 
 fragments and how many bites they take, using fish-predation observations from 
 Coral City Camera footage. It cleans the raw data into a tidy format, summarizes 
-bites by species, and visualizes how bite counts vary across species, fish size 
-and study site.
+bites by species, visualizes how bite counts vary across species and fish size,
+and maps the study site.
 
 
 ## Data sources
 
 ### `data/raw/fish_predation.csv`
 
-- **fish_predation.csv:** Fish predation on *Porites astreoides* fragments at Coral City Camera
+- **Title of the dataset:** Fish predation on *Porites astreoides* fragments at Coral City Camera
 - **Source:** Observations I recorded from Coral City Camera footage as an undergraduate student
-- **Date of access:** 04/2026 recorded
+- **Date of access:** April 2026 (recorded from footage)
 
 ### Natural Earth country polygons (not stored in this repo)
 
@@ -47,7 +47,8 @@ and study site.
   - `results/img/coral_city_camera_map.png`: Map of the study site where the camera was placed, produced by `scripts/03_content/spatial_data_visualization.R`
 
 
-
+- `README.md`: This file, documenting the project
+- `portfolioVL.Rproj`: RStudio portfolio project file
 
 
 
