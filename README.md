@@ -33,22 +33,12 @@ and study site.
   - `data/processed/fish_predation.csv`: Tidy observation data with `date`, `timepoint`, `scientific_name`, `fork_length_cm`, and `number_of_bites`
   - `data/processed/bite_summary.csv`: Summary of species with `total_bites`, `mean_bites`, `mean_fork_length`, and `n`
 
-## R-scripts:
-- **script name:** data_processing.R
-    - **location:** scripts/01_processing/
-    - **purpose:** cleans the raw data, and summarizes predation events (bites) by species 
-      and exports the newly cleaned data sets. 
 
-- **script name:** exploratory_data_visualization.R
-    - **location:** scripts/03_content/
-    - **purpose:** reads the cleaned data from "data_processing.R" that was made and builds 
-      three plots and exports the figures. 
-      
-- **script name:** spatial_data_visualization.R
-    - **location:** scripts/03_content/
-    - **purpose:** reads the cleaned data from "data_processing.R" that was made and 
-      incorporated the coordinates of the study site to map a plot where the data 
-      was collected. 
+- `scripts`: Contains all R scripts used in this project
+  - `scripts/01_processing/data_processing.R`: Reads `data/raw/fish_predation.csv`, cleans it, summarizes bites by species, and exports `data/processed/fish_predation.csv` and `data/processed/bite_summary.csv`
+  - `scripts/03_content/exploratory_data_visualization.R`: Reads `data/processed/fish_predation.csv` and `data/processed/bite_summary.csv`, builds three plots, and exports them to `results/img/`
+  - `scripts/03_content/spatial_data_visualization.R`: Reads `data/processed/bite_summary.csv` and the Natural Earth polygons, maps the study site, and exports `results/img/coral_city_camera_map.png`
+
 
 
 
