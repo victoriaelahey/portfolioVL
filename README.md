@@ -60,6 +60,9 @@ Figures:
     - location: results/img/
     - purpose: box plot of bites per fish 
     
+- file: coral_city_camera_map.png
+    - location: results/img/
+    - purpose: map of study site where camera was placed and data was collected
     
     
 
